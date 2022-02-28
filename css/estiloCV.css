@@ -1,0 +1,38 @@
+div.titles{
+  width: 100%;
+  color: #fe87ac;
+  background-color: rgb(0, 0, 0);
+}
+
+
+header, footer{
+ padding: 1em;
+ color: white;
+ background-color: rgb(0, 0, 0);
+ clear: left;
+ text-align: center;
+}
+
+h1{
+  text-align:center;
+   
+  font-size: 150%;
+  color:rgb(255, 255, 255)
+}  
+
+h4{
+ 
+  color:rgb(66, 20, 40)
+}  
+
+#video{
+  height: 370px;
+  margin: 20px;
+  margin-right: 200px;
+}
+
+#centrar{
+align-items: right;
+text-align: right;
+}
+
